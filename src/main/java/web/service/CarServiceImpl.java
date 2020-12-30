@@ -1,5 +1,6 @@
-package service;
+package web.service;
 
+import org.springframework.stereotype.Repository;
 import web.models.Car;
 
 import java.util.ArrayList;
